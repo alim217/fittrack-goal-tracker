@@ -1,0 +1,48 @@
+{
+  "root": {
+    "utils": {
+      "install_all": "npm install --workspaces --if-present",
+      "format_all": "prettier --write \\\"**/*.{js,jsx,ts,tsx,json,md,css}\\\" --ignore-path .gitignore"
+    },
+    "dev": {
+      "dev_all": "concurrently \\\"npm:dev:backend\\\" \\\"npm:dev:frontend\\\""
+    },
+    "build": {
+      "build_all": "npm run build:frontend"
+    },
+    "start": {
+      "start_production": "npm start --workspace=backend"
+    },
+    "lint": {
+      "lint_all": "npm run lint --workspaces --if-present"
+    },
+    "test": {
+      "test_all": "npm test --workspaces --if-present"
+    }
+  },
+  "backend": {
+    "dev": {
+      "dev": "nodemon server.js"
+    },
+    "start": {
+      "start": "node server.js"
+    },
+    "lint": {
+      "lint": "eslint ."
+    }
+  },
+  "frontend": {
+    "dev": {
+      "dev": "vite"
+    },
+    "build": {
+      "build": "vite build"
+    },
+    "lint": {
+      "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0"
+    },
+    "utils": {
+      "preview": "vite preview"
+    }
+  }
+}
